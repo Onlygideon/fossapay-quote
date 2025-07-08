@@ -18,7 +18,7 @@ Built with **NestJS**, **MySQL**, **Sequelize**, and **CoinGecko API** for accur
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-org/fossapay-quote-api.git
+git clone https://github.com/Onlygideon/fossapay-quote.git
 
 npm install
 ```
