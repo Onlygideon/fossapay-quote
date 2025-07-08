@@ -29,6 +29,8 @@ npm install
 
 ## Usage And Test
 
+API Base Url = https://fossapay-quote.onrender.com
+
 You can paste the temporary details below to your .env file to test locally
 
 #### DB_HOST=crossover.proxy.rlwy.net
