@@ -5,6 +5,7 @@ import axios from 'axios';
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
 
+  // to avoid render cool down imposed on free deploys
   (async () => {
     const url = 'https://fossapay-quote.onrender.com';
     const interval = 300000;
